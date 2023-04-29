@@ -11,4 +11,4 @@ welcome (:=)
 - ⚡ Fun fact: ...
 -->
 
-[![ZhengYiming's github stats](https://github-readme-stats.vercel.app/api?username=realzhengyiming)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=realzhengyiming)](https://github.com/anuraghazra/github-readme-stats)  
